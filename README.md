@@ -10,7 +10,7 @@ To analyze regional chocolate sales, identify key performance indicators, visual
 
 ---
 
-#£ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
