@@ -70,13 +70,6 @@ The dataset includes:
 
 ---
 
-## Dashboard Preview
-
-> ![Dashboard Screenshot]("AwesomeChocolates-Sales-Prediction
-/Screenshot 2025-04-10 224033.png")
-
----
-
 ## Conclusion
 
 This project demonstrates the use of Power BI for real-world business analysis and forecasting. It highlights how data visualization can support strategic decision-making in a retail environment.
